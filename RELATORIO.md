@@ -1,7 +1,7 @@
 # 📝 Relatório do Laboratório 1 - Introdução ao Linux
 
-**Nome:** [Seu nome aqui]  
-**RA:** [Seu RA aqui]  
+**Nome:** Lucas Figueiredo  
+**RA:** 1001000109  
 
 ---
 
@@ -25,7 +25,7 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Qual foi o comando mais útil que você aprendeu? Por quê?**
 
 ```
-[Sua resposta aqui]
+Eu usei mais o comando cd para navegar pelos diretórios
 ```
 
 **2. Qual comando você achou mais difícil de entender? Por quê?**
